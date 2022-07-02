@@ -2,8 +2,8 @@
 
 Mobile (SciPy Mobile) and web (SciPy Web) applications giving users direct access to SciPy's scientific computing functionalities.
 
-[Click here to watch a demo of SciPy Web](https://www.youtube.com/watch?v=SOUVwJVtz-s)  
-[Click here to watch a demo of SciPy Mobile](https://www.youtube.com/watch?v=DSa7pLDoxJo)
+[Click here to watch a demo of SciPy Mobile](https://www.youtube.com/watch?v=DSa7pLDoxJo)  
+[Click here to watch a demo of SciPy Web](https://www.youtube.com/watch?v=SOUVwJVtz-s)
 
 The tech stack of SciPy Suite is:
 - Swift and UIKit with third-person LaTeX renderer libraries [iosMath](https://github.com/kostub/iosMath) and [MathEditor](https://github.com/kostub/MathEditor) for the mobile front end.
